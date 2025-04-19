@@ -4,6 +4,8 @@ Originally published on [LinkedIn](https://www.linkedin.com/pulse/semiconductor-
 
 ---
 ![Semiconductor Brat](./semiconductor-brat-header.png)
+<img src="./semiconductor-brat-header.png" alt="Semiconductor Brat" width="75%">
+
 
 *Published: April 10, 2025*  
 *By Tamra Hargus*
