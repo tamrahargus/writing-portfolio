@@ -6,9 +6,9 @@ A curated collection of personal and professional writing by Tamra Hargus. Some 
 
 ## 📜 Articles
 
-- [Life After the Mask: Reflections from a Laid-Off Layout Designer](./life-after-the-mask.md)
-- [The Day the Tools Went Quiet](./day-the-tools-went-quiet.md)
-- [Truth, Silicon, and Sanity Checks](./truth-silicon-and-sanity.md)
+- [Semiconductor Brat: Growing Up in the Industry, Watching It Drift](./semiconductor-brat.md)
+- [Dual Expertise: Leveraging Intel’s Use of Both TSMC and Intel Nodes](./dual-expertise-intel-tsmc.md)
+- [Interviewing Insights: Lessons Learned from a Virtual Interview Loop](./interview-lessons.md)
 
 ---
 
