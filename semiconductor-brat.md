@@ -3,6 +3,7 @@
 Originally published on [LinkedIn](https://www.linkedin.com/pulse/semiconductor-brat-growing-up-industry-watching-drift-tamra-hargus-rdb6e/)
 
 ---
+![Semiconductor Brat](./semiconductor-brat-header.png)
 
 *Published: April 10, 2025*  
 *By Tamra Hargus*
