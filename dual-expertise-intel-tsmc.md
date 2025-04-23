@@ -3,7 +3,7 @@
 Originally published on [LinkedIn](https://www.linkedin.com/pulse/dual-expertise-leveraging-intels-use-both-tsmc-intel-nodes-hargus-bd1ec/)
 
 ---
-<img src="./dual-expertise-header.png" alt="Dual Expertise" width="75%">
+<img src="./dual_expertise_header.png" alt="Dual Expertise" width="75%">
 
 
 *Published: January 08, 2025*  
