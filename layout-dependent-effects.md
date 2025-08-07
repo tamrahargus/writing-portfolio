@@ -90,10 +90,6 @@ These are not optional best practices—they’re essential tools in the analog 
 ### ➤ Use Symmetry and Common-Centroid Layouts  
 Center matched devices around a shared centroid to average gradients like stress or doping.
 
-Example:  
-
-<image>
-
 ### ➤ Insert Dummies Strategically  
 Add dummy gates, OD regions, and poly stripes to equalize STI stress and etch loading. Follow foundry spacing and density rules carefully.
 
