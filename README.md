@@ -4,10 +4,13 @@ A curated collection of personal and professional writing by Tamra Hargus. Some 
 
 ---
 
-## Articles
-
+## Technical Articles
+- [Layout-Dependent Effects in Analog IC Layout](./layout-dependent-effects.md)
 - [Semiconductor Brat: Growing Up in the Industry, Watching It Drift](./semiconductor-brat.md)
 - [Dual Expertise: Leveraging Intel’s Use of Both TSMC and Intel Nodes](./dual-expertise-intel-tsmc.md)
+
+
+## Job Search Reflections
 - [Interviewing Insights: Lessons Learned from a Virtual Interview Loop](./interview-lessons.md)
 
 ---
