@@ -124,5 +124,3 @@ Ignoring LDE guarantees headaches later—during LVS, during silicon debug, and 
 - IEEE Xplore – Search "layout-dependent effects"
 
 ---
-
-*Authored by Tamra Hargus — U.S. Navy veteran, analog layout designer, and hands-on IC builder. This guide is part of an ongoing series for engineers working at the intersection of physical design and analog precision.*
