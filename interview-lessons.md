@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./IMG_0017.jpeg" alt="Interviewing Insights" width="600">
+</p>
+
 # Interviewing Insights: Lessons Learned from a Challenging Virtual Interview
 
 
