@@ -1,20 +1,22 @@
 # Writing Portfolio
 
-A curated collection of personal and professional writing by Tamra Hargus. Some pieces were originally published on LinkedIn, others are essays or reflections intended for broader publication. Topics span technology, semiconductors, life after layoffs, and the human side of engineering.
+Writing by Tamra Hargus, covering technology, semiconductors, and the human side of engineering.  
+Some pieces were originally published on LinkedIn, others are essays or notes developed for broader publication.
 
 ---
 
 ## Technical Articles
-- [Layout-Dependent Effects in Analog IC Layout](./layout-dependent-effects.md)
-- [Semiconductor Brat: Growing Up in the Industry, Watching It Drift](./semiconductor-brat.md)
-- [Dual Expertise: Leveraging Intel’s Use of Both TSMC and Intel Nodes](./dual-expertise-intel-tsmc.md)
+- [Layout-Dependent Effects in Analog IC Layout](./layout-dependent-effects.md)  
+- [Semiconductor Brat: Growing Up in the Industry, Watching It Drift](./semiconductor-brat.md)  
+- [Dual Expertise: Leveraging Intel’s Use of Both TSMC and Intel Nodes](./dual-expertise-intel-tsmc.md)  
 
+---
 
-## Job Search Reflections
-- [Interviewing Insights: Lessons Learned from a Virtual Interview Loop](./interview-lessons.md)
+## Reflections
+- [Interviewing Insights: Lessons Learned from a Virtual Interview Loop](./interview-lessons.md)  
 
 ---
 
 ## In Progress
-
-More content will be added as I write, edit, and reflect. This portfolio is both a personal archive and a resource for others navigating similar paths.
+This portfolio continues to grow as I write, edit, and reflect.  
+It serves as both a personal archive and a resource for others interested in semiconductors, IC design, and engineering careers.
