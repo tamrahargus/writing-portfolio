@@ -1,7 +1,7 @@
 # Writing Portfolio
 
-Writing by Tamra Hargus, covering technology, semiconductors, and the human side of engineering.  
-Some pieces were originally published on LinkedIn, others are essays or notes developed for broader publication.
+Writing by Tamra Hargus, focused on technology, semiconductors, and the human side of engineering.  
+This collection includes technical essays, industry reflections, and career notes drawn from both practice and perspective.
 
 ---
 
@@ -17,6 +17,5 @@ Some pieces were originally published on LinkedIn, others are essays or notes de
 
 ---
 
-## In Progress
-This portfolio continues to grow as I write, edit, and reflect.  
-It serves as both a personal archive and a resource for others interested in semiconductors, IC design, and engineering careers.
+## Ongoing Work
+This portfolio is a working archive — new essays are added as I write, edit, and expand on topics in semiconductors, IC design, and engineering careers.
